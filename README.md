@@ -237,7 +237,7 @@ Next, I created a filterTable function and attached an event listener at the end
 
 The resulting page is not only a clean and clear presentation of the UFO sightings data, it is an interactive resource for users to comb easily through the data based on their individual search criteria. Using Javascript and d3 allowed me to generate the code above and make the filter search truly interactive for our users. Now you can search by more than just a date.  For example, type in the city you want to search following the placeholder example's format and hit Enter on your keyboard. Say we are looking for el cajon:
 
-![citySearch]()
+![citySearch](https://github.com/ChallahBack83/UFOs/blob/main/static/images/citySearch.png)
 
 Now, in the table to the right, only that city appears in the table, making focused searching easier. You can also search by search by multiple criteria. For instance here, search by date and state by typing in the first and hitting tab until your cursor is in the next criteria you want to sue:
 
