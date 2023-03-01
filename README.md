@@ -4,6 +4,8 @@
 
 This project employees the use of Javascript to enhance HTML and build a dynamic webpage about UFO sighting data.  The goal is to pull in searchable data for users to search using multiple filters.  Bootstrap, CSS and d3 were all new tools used in this project to refine the final page. 
 
+The deployed web-page can be viewed [HERE](https://challahback83.github.io/).
+
 ## Process
 
 First, I began with outlining the needs for the project with a simple storyboard. This allowed me to visualize the sections needed for the page before building out the code. Since this page requires several different stages and code, I created html, javascript, and css files.  Starting with the html, I built out the outline for the layout of the page with the header, article title, and articles.  In the header, I input the title and a link to bootstrap to import the style format. Then, I linked to the empty css file, which will eventually hold the code for formatting.
